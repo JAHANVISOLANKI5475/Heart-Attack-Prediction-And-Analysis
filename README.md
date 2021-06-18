@@ -1,7 +1,7 @@
 # Heart-Attack-Prediction-And-Analysis
 Prediction and analysis using 9 Algorithms and comparing their accuracy.
 The output were as follows:
-MLPClassifier: 1.211s
+*MLPClassifier: 1.211s*
 Random Forest: 0.59s
 AdaBoost: 0.051s
 XGBoost: 0.044s
